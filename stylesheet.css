@@ -141,9 +141,15 @@ span.highlight {
 }
 
 .colored-box {
-  color: black;
-  padding: 20px;
-  display: inline-block;
-  border-radius: 10px;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    padding: 0 16px;
+  }
 }
 
