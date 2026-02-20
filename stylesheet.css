@@ -113,7 +113,6 @@ h2 {
   margin: 0;
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 32px;
-  text-align: center;
 }
 
 .one {
@@ -148,9 +147,3 @@ span.highlight {
   border-radius: 10px;
 }
 
-.profile-photo {
-  width: 160px;
-  height: 160px;
-  border-radius: 50%;
-  object-fit: cover;
-}
