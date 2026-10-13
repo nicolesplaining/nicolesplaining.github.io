@@ -108,6 +108,11 @@ h2 {
   font-weight: 700;
 }
 
+.paper-description {
+  margin: 8px 0 0;
+  line-height: 1.4;
+}
+
 .name {
   padding-top: 20px;
   margin: 0;
